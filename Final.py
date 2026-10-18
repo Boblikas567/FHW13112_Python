@@ -38,3 +38,4 @@ add_money()
 watch_action()
 
 connection.commit()
+connection.close()
